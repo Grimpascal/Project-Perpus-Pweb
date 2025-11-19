@@ -6,7 +6,7 @@
         <div>
             <ul class=" flex gap-5 text-center">
                 <li class=" hover:text-[#FFB22C]"><a href="">Home</a></li>
-                <li class=" hover:text-[#FFB22C]"><a href="">Buku</a></li>
+                <li class=" hover:text-[#FFB22C]"><a href="">Buuuku</a></li>
                 <li class=" hover:text-[#FFB22C]"><a href="">Contact</a></li>
             </ul>
         </div>
