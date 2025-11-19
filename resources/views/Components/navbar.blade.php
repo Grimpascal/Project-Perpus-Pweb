@@ -1,11 +1,11 @@
-<nav class=" font-lato border-b-1">
+<nav class=" font-lato border-b">
     <div class=" flex justify-between m-5">
         <div>
             <h3 class=" font-bold">LOGO PERPUS</h3>
         </div>
         <div>
             <ul class=" flex gap-5 text-center">
-                <li class=" hover:text-[#FFB22C]"><a href="">Homeee</a></li>
+                <li class=" hover:text-[#FFB22C]"><a href="">Home</a></li>
                 <li class=" hover:text-[#FFB22C]"><a href="">Buku</a></li>
                 <li class=" hover:text-[#FFB22C]"><a href="">Contact</a></li>
             </ul>
